@@ -1,0 +1,9 @@
+langchain
+langchain-community
+ollama
+chromadb
+pandas
+python-docx
+pypdf
+tiktoken
+openpyxl
